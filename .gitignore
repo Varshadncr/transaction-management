@@ -1,0 +1,27 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+env/
+venv/
+.env
+.venv
+*.sqlite3
+.idea/
+.vscode/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+.coverage
+.tox
+.nox
+.hypothesis/
+.pytest_cache/
+
+# Static files
+/static/
+/media/
